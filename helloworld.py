@@ -1,1 +1,1 @@
-Pront("Hello World")
+print("Hello World")
